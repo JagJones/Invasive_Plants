@@ -1,5 +1,17 @@
 ***Invasive Plant Species of Kentucky***
 
+**To Use:**
+
+This script uses...
+
+. To use this script pull down to your machine. 
+. Next install the required tools...
+- Make code box here for requirements.txt
+
+. To run Jupyter Notebooks..
+- 
+
+
 This script uses pandas to read in two CSVs via https://www.invasiveplantatlas.org/list.html?id=24. The data is then cleaned up and organized. 
 
 Seaborn is used to display visualizations to show the top 5 most plants, top 5 most invasive plant families, and then the most invasive plant family overall.
