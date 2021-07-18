@@ -2,10 +2,8 @@
 
 **To Use:**
 
-This script uses...
-
-. To use this script pull down to your machine. 
-. Next install the required tools...
+. Pull down to your machine. 
+. Install the required packages: 
 - Make code box here for requirements.txt
 
 . To run Jupyter Notebooks..
