@@ -6,20 +6,27 @@
 . Install the required packages: 
 - Make code box here for requirements.txt
 
-. To run Jupyter Notebooks..
-- 
+### Goals
+
+ - Read in data from two source types-
+    1. The first df (df1, from a csv), lists invasive plant species by both common and scientific names as well as nativity.
+    2. The second df (df2, also from a csv), has the same plants but lists an additional column of plant invasiveness. 
+ - Combine the two dfs to create one main df (df_main).
+ - Use seaborn to visually display plant stats.
+ - Create a dictionary & function so a user can enter a plant name and see the details for that specific plant.
 
 
-This script uses pandas to read in two CSVs via https://www.invasiveplantatlas.org/list.html?id=24. The data is then cleaned up and organized. 
+### Features
 
-Seaborn is used to display visualizations to show the top 5 most plants, top 5 most invasive plant families, and then the most invasive plant family overall.
+ - Read data from an external file, such as text, JSON, CSV, etc and use that data in your application.
+ - Visualize data in a graph, chart, or other visual representation of data
+ - Create and call at least 3 functions or methods, at least one of which must return a value that is used 
+ somewhere else in your code. To clarify, at least one function should be called in your code, that function 
+ should calculate, retrieve, or otherwise set the value of a variable or data structure, return a value to 
+ where it was called, and use that value somewhere else in your code.
 
-The way this project is written, it's used as a learning journal. There's a lot of lines with self explanatory comments that were needed for me to learn or work through a problem.
 
-**Included Features**
+### Additional Features
 
-. Read data from an external file, such as text, JSON, CSV, etc and use that data in your application.
-. *Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program.
-. Analyze text and display information about it (ex: how many words in a paragraph).
-. Visualize data in a graph, chart, or other visual representation of data. 
-. Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, analyze that data in some manner, and display a new result to a graph, chart, or other display. 
+ - Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, 
+analyze that data in some manner, and display a new result to a graph, chart, or other display.
