@@ -1,11 +1,13 @@
-#Invasive Plant Species of Kentucky
+## Invasive Plant Species of Kentucky
 ***
 
-### To Use:
+### *To Use:
+
+You will need... Python3 and pip.
 
 - Pull down from the repo.
-- Install packages ...
-    `requirements.txt`
+- Change into 'Invasive_Plants' directory.
+- Install packages using `pip install -r requirements.txt`
     
 
 ### *Goals
