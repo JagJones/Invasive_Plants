@@ -8,6 +8,8 @@ You will need... Python3 and pip.
 - Pull down from the repo.
 - Change into 'Invasive_Plants' directory.
 - Install packages using `pip install -r requirements.txt`
+- Open the virtual environment using `source venv/bin/activate`
+- Run the notebook within the virtual environment using `jupyter notebook`
     
 
 ### *Goals
