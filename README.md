@@ -1,22 +1,26 @@
-***Invasive Plant Species of Kentucky***
+#Invasive Plant Species of Kentucky
+***
 
-**To Use:**
+### To Use:
 
-. Pull down to your machine. 
-. Install the required packages: 
-- Make code box here for requirements.txt
+- Pull down from the repo.
+- Install packages ...
+    `requirements.txt`
+    
 
-### Goals
+### *Goals
 
  - Read in data from two source types-
     1. The first df (df1, from a csv), lists invasive plant species by both common and scientific names as well as nativity.
-    2. The second df (df2, also from a csv), has the same plants but lists an additional column of plant invasiveness. 
+    2. The second df (df2, also from a csv), has most the same plants as df1 but lists an additional column of plant invasiveness. 
  - Combine the two dfs to create one main df (df_main).
  - Use seaborn to visually display plant stats.
  - Create a dictionary & function so a user can enter a plant name and see the details for that specific plant.
+ 
+ 
 
 
-### Features
+### *Features
 
  - Read data from an external file, such as text, JSON, CSV, etc and use that data in your application.
  - Visualize data in a graph, chart, or other visual representation of data
@@ -26,7 +30,7 @@
  where it was called, and use that value somewhere else in your code.
 
 
-### Additional Features
+### *Additional Features
 
  - Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, 
 analyze that data in some manner, and display a new result to a graph, chart, or other display.
