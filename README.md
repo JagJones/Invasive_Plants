@@ -1,7 +1,7 @@
 # Invasive Plant Species of Kentucky
 ***
 
-### *To Use:
+### *To Use*:
 
 You will need to have **Python3** and **pip** installed.
 
@@ -11,13 +11,13 @@ You will need to have **Python3** and **pip** installed.
 - Open the virtual environment using `source venv/bin/activate`
 - Run the notebook within the virtual environment using `jupyter notebook`
 
-### *Source
+### *Data Source*
 
 [Kentucky Exotic Pest Plant Council](https://www.invasiveplantatlas.org/list.html?id=24)
 
 
 
-### *Goals
+### *Goals*
 
  - Read in data from two sources-
     1. The first df (df1, from a csv), lists invasive plant species by both common and scientific names as well as nativity.
@@ -28,7 +28,7 @@ You will need to have **Python3** and **pip** installed.
  
  
 
-### *Features
+### *Features*
 
  - Read data from an external file, such as text, JSON, CSV, etc and use that data in your application.
  - Visualize data in a graph, chart, or other visual representation of data
@@ -41,7 +41,7 @@ You will need to have **Python3** and **pip** installed.
  
 
 
-### *Additional Features
+### *Additional Features*
 
  - Use pandas, matplotlib, and/or numpy to perform a data analysis project. Ingest 2 or more pieces of data, 
 analyze that data in some manner, and display a new result to a graph, chart, or other display.
